@@ -1,2 +1,2 @@
 # To--DO-List
-Made a to-do list in java
+Made a most basic to-do list in java
